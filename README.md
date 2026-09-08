@@ -5,8 +5,8 @@ Current enrollment, demographics, attendance and LRE read the public Fabric-fed
 Azure endpoint directly; update captions show the source date, not a clock time.
 The center academic charts retain the three released years through 2025–2026.
 
-Original race categories are preserved. Positive counts below 10 show `*` for
-both count and percentage; zero and counts of 10 or more remain visible.
+Original race categories are preserved. Demographic counts and percentages are
+fully visible, including counts below 10. Race-attendance small counts remain starred.
 This is a draft preview for review. Missing-source issues remain distinct from
 suppression; stale or failed live reads do not fall back to prior-year values.
 
